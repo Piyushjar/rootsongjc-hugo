@@ -16,7 +16,7 @@ Blog banner: 3:2
 
 ### Event 
 
-Event image: 3:2
+Event image: 5:3
 
 Speaker: 120px x 120px
 
